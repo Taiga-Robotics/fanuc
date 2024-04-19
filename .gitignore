@@ -24,7 +24,7 @@ bin/
 lib/
 
 # Other ROS stuff
-CATKIN_IGNORE*
+# CATKIN_IGNORE* need to turn off the driver for some sim testing in container.
 
 # Eclipse stuff
 .pydevproject
